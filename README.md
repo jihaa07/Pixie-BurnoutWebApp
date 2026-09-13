@@ -58,31 +58,31 @@ We build a burnout-prevention web app that fuses students' mental, time, physica
 ![Ideation overview](images/ideation_overview.png)
 *High-level view of how our three idea groups — core load categories, systemic gaps, and the engagement mechanism — combine into one product.*
 
-![A1 time load](images/a1_time_load_branches.png)
+![A1 time load](images/a1_time_load_branches.png) <br>
 *A1 (time load): all three members' proposals converged in direction — the task organiser was chosen as the most concrete, buildable version.*
 
-![A2 mental load](images/a2_mental_load_branches.png)
+![A2 mental load](images/a2_mental_load_branches.png) <br>
 *A2 (mental load): the coping-mechanism idea and reward system were combined; the food/nutrition suggestion was dropped as out of scope for a workload app.*
 
-![A3 sleep](images/a3_sleep_branches.png)
+![A3 sleep](images/a3_sleep_branches.png) <br>
 *A3 (sleep): all three proposals blended directly into the final feature — sleep score, morning check-in, and power-nap suggestion.*
 
-![A4 exercise](images/a4_exercise_branches.png)
+![A4 exercise](images/a4_exercise_branches.png) <br>
 *A4 (exercise): a genuine three-way fork — the target-and-reminder system was chosen over a passive video suggestion and a coordination-dependent group session.*
 
-![A5 isolation](images/a5_isolation_branches.png)
+![A5 isolation](images/a5_isolation_branches.png) <br>
 *A5 (social load): near-identical mechanism proposed independently by all three members — one of our strongest convergence signals.*
 
-![A6 errands](images/a6_errands_branches.png)
+![A6 errands](images/a6_errands_branches.png) <br>
 *A6 (errands): all three converged on treating errands as their own lighter-weight task type.*
 
-![B1 recovery](images/b1_recovery_branches.png)
+![B1 recovery](images/b1_recovery_branches.png) <br>
 *B1 (no recovery scheduled): real divergence in scale — a full day off, in-session breaks, or AI-scheduled rest blocks. AI-blocked rest was chosen for treating rest as a genuine, schedulable calendar item.*
 
-![B2 early warning](images/b2_warning_branches.png)
+![B2 early warning](images/b2_warning_branches.png) <br>
 *B2 (no early warning): the threshold concept and cross-data approach combined directly into the rolling load score.*
 
-![B3 tracking without action](images/b3_action_branches.png)
+![B3 tracking without action](images/b3_action_branches.png) <br>
 *B3 (tracking without action): the companion framing and AI-suggestion mechanism combined into the final action-based approach.*
 
 *[TEAM: add raw whiteboard/paper sketch photos here too if you have them.]*
@@ -104,33 +104,34 @@ We build a burnout-prevention web app that fuses students' mental, time, physica
 
 ## 3. Design & Prototype
 
-**UI Prototype:** [Figma Prototype](https://www.figma.com/proto/04sCc9O5DhXo5YWy6Y6OyO/Burnout-Companion-%E2%80%94-Authentication-Flow?node-id=3-10&p=f&t=GF73vs7i6nbSVKk6-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A10&show-proto-sidebar=1)
+**UI Prototype:** [Figma Prototype](https://www.figma.com/proto/04sCc9O5DhXo5YWy6Y6OyO/Burnout-Companion-%E2%80%94-Authentication-Flow?node-id=3-10&p=f&t=GF73vs7i6nbSVKk6-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A10&show-proto-sidebar=1) <br>
+*Please click the button to go to the next page.* <br>
 
-![Onboarding: coping mechanism](images/prototype_1_onboarding_coping.png)
+![Onboarding: coping mechanism](images/prototype_1_onboarding_coping.png) <br>
 *Onboarding asks about the user's coping habits during sign-up — Pixie references this later when suggesting rest or reconnection actions, rather than giving generic advice.*
 
-![Home dashboard](images/prototype_2_home_dashboard.png)
+![Home dashboard](images/prototype_2_home_dashboard.png) <br>
 *The home dashboard surfaces today's plan, a wellbeing strain indicator, and Pixie's own state together, so the user sees their combined load without opening a separate report.*
 
-![Task page: Timetable view](images/prototype_3_task_timetable.png)
+![Task page: Timetable view](images/prototype_3_task_timetable.png)<br>
 *Tasks are placed against the day's hours and colour-coded by urgency. Clicking a task opens its details on the right, with unscheduled items kept visible below.*
 
-![Task completed reward](images/prototype_4_task_completed.png)
+![Task completed reward](images/prototype_4_task_completed.png) <br>
 *Completing a task rewards Pixie with a point and asks how the task felt — turning completion into a small feedback loop with the companion instead of a plain checkbox.*
 
-![Suggestion page](images/prototype_5_suggestions.png)
+![Suggestion page](images/prototype_5_suggestions.png) <br>
 *Pixie surfaces specific, ranked actions based on today's check-in and task load. The top suggestion is recommended first, with alternates available below — accept, adjust the timing, or dismiss.*
 
-![Pixie personality settings](images/prototype_6_pixie_personality.png)
+![Pixie personality settings](images/prototype_6_pixie_personality.png) <br>
 *Users choose their companion's appearance and how it talks to them — tone and response style — with a live preview of an example message before saving.*
 
-![Check-in settings](images/prototype_7_checkin_settings.png)
+![Check-in settings](images/prototype_7_checkin_settings.png) <br>
 *Users set what time Pixie sends the daily wellbeing check-in reminder, delivered via WhatsApp.*
 
-![WhatsApp reminder settings](images/prototype_8_whatsapp_settings.png)
+![WhatsApp reminder settings](images/prototype_8_whatsapp_settings.png) <br>
 *Granular control over which reminder types — tasks, sleep, exercise, social, motivation — are sent via WhatsApp, plus quiet hours so reminders pause overnight.*
 
-![WhatsApp message preview](images/prototype_9_whatsapp_preview.png)
+![WhatsApp message preview](images/prototype_9_whatsapp_preview.png) <br>
 *Reminders and suggestions arrive as WhatsApp messages, keeping Pixie present even outside the web app.*
 
 ---
@@ -185,7 +186,7 @@ We build a burnout-prevention web app that fuses students' mental, time, physica
 
 ### 5.3 System Architecture Diagram
 
-*[TEAM: add diagram here]*
+![System Architecture](systemarch.png) <br>
 
 ### 5.4 Build Plan & Scope
 
