@@ -186,7 +186,7 @@ We build a burnout-prevention web app that fuses students' mental, time, physica
 
 ### 5.3 System Architecture Diagram
 
-![System Architecture](systemarch.png) <br>
+![System Architecture](images/systemarch.png) <br>
 
 ### 5.4 Build Plan & Scope
 
