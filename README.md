@@ -55,7 +55,7 @@ We build a burnout-prevention web app that fuses students' mental, time, physica
 
 ### 2.2 Ideation Boards
 
-![Ideation overview](images/ideation_overview.png)
+![Ideation overview](images/ideation_overview.png) <br>
 *High-level view of how our three idea groups — core load categories, systemic gaps, and the engagement mechanism — combine into one product.*
 
 ![A1 time load](images/a1_time_load_branches.png) <br>
