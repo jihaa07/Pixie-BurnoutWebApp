@@ -85,7 +85,7 @@ We build a burnout-prevention web app that fuses students' mental, time, physica
 ![B3 tracking without action](images/b3_action_branches.png) <br>
 *B3 (tracking without action): the companion framing and AI-suggestion mechanism combined into the final action-based approach.*
 
-*[TEAM: add raw whiteboard/paper sketch photos here too if you have them.]*
+
 
 ### 2.3 Mentor Consultation
 
