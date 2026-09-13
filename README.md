@@ -2,7 +2,7 @@
 
 **Team:** Amira Shazleena binti Ahmad Shamsudin, Wan Nur Aliya binti Wan Noor Azhar, Nurul Najihah binti Abdullah <br>
 **Problem Statement:** Stress & Workload Manager <br>
-**Video Presentation:** [Unlisted YouTube Link] <br>
+**Video Presentation:** https://youtu.be/0Q3X5QMXGkE <br>
 **Presentation Slides:** https://canva.link/n044iqs7y2g6qpw <br>
 
 ---
