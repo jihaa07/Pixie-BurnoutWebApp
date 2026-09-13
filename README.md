@@ -1,9 +1,9 @@
 # Pixie by TriCip
 
-**Team:** Amira Shazleena binti Ahmad Shamsudin, Wan Nur Aliya binti Wan Noor Azhar, Nurul Najihah binti Abdullah <br>
-**Problem Statement:** Stress & Workload Manager <br>
-**Video Presentation:** https://youtu.be/0Q3X5QMXGkE <br>
-**Presentation Slides:** https://canva.link/n044iqs7y2g6qpw <br>
+**Team:** Amira Shazleena binti Ahmad Shamsudin, Wan Nur Aliya binti Wan Noor Azhar, Nurul Najihah binti Abdullah<br>
+**Problem Statement:** Stress & Workload Manager<br>
+**Video Presentation:** [https://youtu.be/0Q3X5QMXGkE](https://youtu.be/0Q3X5QMXGkE)<br>
+**Presentation Slides:** [https://canva.link/n044iqs7y2g6qpw](https://canva.link/n044iqs7y2g6qpw)
 
 ---
 
@@ -104,9 +104,34 @@ We build a burnout-prevention web app that fuses students' mental, time, physica
 
 ## 3. Design & Prototype
 
-**UI Prototype:** [Public Link]
+**UI Prototype:** [Figma Prototype](https://www.figma.com/proto/04sCc9O5DhXo5YWy6Y6OyO/Burnout-Companion-%E2%80%94-Authentication-Flow?node-id=3-10&p=f&t=GF73vs7i6nbSVKk6-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A10&show-proto-sidebar=1)
 
-*[TEAM: embed or link 4–8 key screens as images, with a caption on each explaining the interaction. Check the prototype opens in an incognito window.]*
+![Onboarding: coping mechanism](images/prototype_1_onboarding_coping.png)
+*Onboarding asks about the user's coping habits during sign-up — Pixie references this later when suggesting rest or reconnection actions, rather than giving generic advice.*
+
+![Home dashboard](images/prototype_2_home_dashboard.png)
+*The home dashboard surfaces today's plan, a wellbeing strain indicator, and Pixie's own state together, so the user sees their combined load without opening a separate report.*
+
+![Task page: Timetable view](images/prototype_3_task_timetable.png)
+*Tasks are placed against the day's hours and colour-coded by urgency. Clicking a task opens its details on the right, with unscheduled items kept visible below.*
+
+![Task completed reward](images/prototype_4_task_completed.png)
+*Completing a task rewards Pixie with a point and asks how the task felt — turning completion into a small feedback loop with the companion instead of a plain checkbox.*
+
+![Suggestion page](images/prototype_5_suggestions.png)
+*Pixie surfaces specific, ranked actions based on today's check-in and task load. The top suggestion is recommended first, with alternates available below — accept, adjust the timing, or dismiss.*
+
+![Pixie personality settings](images/prototype_6_pixie_personality.png)
+*Users choose their companion's appearance and how it talks to them — tone and response style — with a live preview of an example message before saving.*
+
+![Check-in settings](images/prototype_7_checkin_settings.png)
+*Users set what time Pixie sends the daily wellbeing check-in reminder, delivered via WhatsApp.*
+
+![WhatsApp reminder settings](images/prototype_8_whatsapp_settings.png)
+*Granular control over which reminder types — tasks, sleep, exercise, social, motivation — are sent via WhatsApp, plus quiet hours so reminders pause overnight.*
+
+![WhatsApp message preview](images/prototype_9_whatsapp_preview.png)
+*Reminders and suggestions arrive as WhatsApp messages, keeping Pixie present even outside the web app.*
 
 ---
 
