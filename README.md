@@ -56,22 +56,22 @@ We build a burnout-prevention web app that fuses students' mental, time, physica
 ### 2.2 Ideation Boards
 
 ![Ideation overview](images/ideation_overview.png) <br>
-*High-level view of how our three idea groups — core load categories, systemic gaps, and the engagement mechanism — combine into one product.*
+*High-level view of how our three idea groups: core load categories, systemic gaps, and the engagement mechanism, combine into one product.*
 
 ![A1 time load](images/a1_time_load_branches.png) <br>
-*A1 (time load): all three members' proposals converged in direction — the task organiser was chosen as the most concrete, buildable version.*
+*A1 (time load): all three members' proposals converged in direction; the task organiser was chosen as the most concrete, buildable version.*
 
 ![A2 mental load](images/a2_mental_load_branches.png) <br>
 *A2 (mental load): the coping-mechanism idea and reward system were combined; the food/nutrition suggestion was dropped as out of scope for a workload app.*
 
 ![A3 sleep](images/a3_sleep_branches.png) <br>
-*A3 (sleep): all three proposals blended directly into the final feature — sleep score, morning check-in, and power-nap suggestion.*
+*A3 (sleep): all three proposals blended directly into the final feature; sleep score, morning check-in, and power-nap suggestion.*
 
 ![A4 exercise](images/a4_exercise_branches.png) <br>
-*A4 (exercise): a genuine three-way fork — the target-and-reminder system was chosen over a passive video suggestion and a coordination-dependent group session.*
+*A4 (exercise): a genuine three-way fork; the target-and-reminder system was chosen over a passive video suggestion and a coordination-dependent group session.*
 
 ![A5 isolation](images/a5_isolation_branches.png) <br>
-*A5 (social load): near-identical mechanism proposed independently by all three members — one of our strongest convergence signals.*
+*A5 (social load): near-identical mechanism proposed independently by all three members; one of our strongest convergence signals.*
 
 ![A6 errands](images/a6_errands_branches.png) <br>
 *A6 (errands): all three converged on treating errands as their own lighter-weight task type.*
@@ -117,19 +117,19 @@ We build a burnout-prevention web app that fuses students' mental, time, physica
 *Tasks are placed against the day's hours and colour-coded by urgency. Clicking a task opens its details on the right, with unscheduled items kept visible below.*
 
 ![Task completed reward](images/prototype_4_task_completed.png) <br>
-*Completing a task rewards Pixie with a point and asks how the task felt — turning completion into a small feedback loop with the companion instead of a plain checkbox.*
+*Completing a task rewards Pixie with a point and asks how the task felt, turning completion into a small feedback loop with the companion instead of a plain checkbox.*
 
 ![Suggestion page](images/prototype_5_suggestions.png) <br>
-*Pixie surfaces specific, ranked actions based on today's check-in and task load. The top suggestion is recommended first, with alternates available below — accept, adjust the timing, or dismiss.*
+*Pixie surfaces specific, ranked actions based on today's check-in and task load. The top suggestion is recommended first, with alternates available below; accept, adjust the timing, or dismiss.*
 
 ![Pixie personality settings](images/prototype_6_pixie_personality.png) <br>
-*Users choose their companion's appearance and how it talks to them — tone and response style — with a live preview of an example message before saving.*
+*Users choose their companion's appearance and how it talks to them; tone and response style, with a live preview of an example message before saving.*
 
 ![Check-in settings](images/prototype_7_checkin_settings.png) <br>
 *Users set what time Pixie sends the daily wellbeing check-in reminder, delivered via WhatsApp.*
 
 ![WhatsApp reminder settings](images/prototype_8_whatsapp_settings.png) <br>
-*Granular control over which reminder types — tasks, sleep, exercise, social, motivation — are sent via WhatsApp, plus quiet hours so reminders pause overnight.*
+*Granular control over which reminder types; tasks, sleep, exercise, social, motivation are sent via WhatsApp, plus quiet hours so reminders pause overnight.*
 
 ![WhatsApp message preview](images/prototype_9_whatsapp_preview.png) <br>
 *Reminders and suggestions arrive as WhatsApp messages, keeping Pixie present even outside the web app.*
